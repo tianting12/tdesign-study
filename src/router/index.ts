@@ -1,5 +1,5 @@
 // 从 vue-router 包中导入所需的函数和类型，
-import {useRoute, createRouter, createWebHashHistory, RouteRecordRaw} from 'vue-router';
+import { useRoute, createRouter, createWebHashHistory, RouteRecordRaw } from 'vue-router';
 // 导入 lodash/uniq 函数，用于数组去重。
 import uniq from 'lodash/uniq';
 
